@@ -1,0 +1,36 @@
+{
+  "leadership": {
+      "description": "Questions focusing on leadership experience and potential",
+      "questions": [
+          {
+              "id": "l1",
+              "question": "Tell me about a time you led a project to success.",
+              "context": "Leadership experience and project management",
+              "evaluation_criteria": ["Clear vision", "Team management", "Results achieved"]
+          },
+          {
+              "id": "l2",
+              "question": "How have you handled disagreements in your team?",
+              "context": "Conflict resolution and team dynamics",
+              "evaluation_criteria": ["Communication skills", "Problem-solving", "Team harmony"]
+          }
+      ]
+  },
+  "negotiation": {
+      "description": "Questions about negotiation and salary discussions",
+      "questions": [
+          {
+              "id": "n1",
+              "question": "How would you approach asking for a raise?",
+              "context": "Salary negotiation and self-advocacy",
+              "evaluation_criteria": ["Preparation", "Value communication", "Confidence"]
+          },
+          {
+              "id": "n2",
+              "question": "Tell me about a time you successfully negotiated for resources.",
+              "context": "Resource acquisition and business case presentation",
+              "evaluation_criteria": ["Needs analysis", "Strategic thinking", "Results"]
+          }
+      ]
+  }
+}
